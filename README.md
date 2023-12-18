@@ -9,5 +9,7 @@ using /authenticate endpoint and then can be used as a Bearer tokens
 ## Run Details
 To run you could use
 > ./run.sh
+>
 It will build/run the application and start the MYSQL instance
+
 Prerequisites: maven, Java 17 and a running docker daemon 
